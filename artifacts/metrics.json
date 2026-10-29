@@ -1,0 +1,11 @@
+{
+  "dataset": "Synthetic image arrays with group-held-out simulated patients",
+  "seed": 42,
+  "mode": "medical",
+  "metric": "PR-AUC",
+  "models": {
+    "Logistic Regression": 1,
+    "Random Forest": 1
+  },
+  "note": "Images are synthetic. Not a clinical diagnosis tool."
+}
